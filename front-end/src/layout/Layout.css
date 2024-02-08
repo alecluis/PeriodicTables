@@ -1,0 +1,26 @@
+.side-bar {
+  background-color: #393a44;
+  min-width: 200px;
+}
+
+body {
+    background-color: rgb(252, 245, 226);
+  }
+  .group {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 100px;
+}
+
+/* This applies from 600px and larger*/
+@media all and (min-width: 600px) { 
+  body {
+    background-color: rgb(248, 248, 246);
+  }
+
+  .group {
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 100px;
+}
+}
