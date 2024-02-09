@@ -51,9 +51,10 @@ function ReservationForm({reservation, setReservation, submitHandler}) {
         <div className="col-sm-10">
           <input
             name="mobile_number"
-            type="tel"
+            type="number"
             value={reservation.mobile_number}
             onChange={changeHandler}
+            maxLength="10"
           />
         </div>
       </div>
