@@ -4,4 +4,8 @@ This is a full-stack javascript CRUD app, which allows a user to create, edit, d
 
 **<h4>First, on the dashboard page, a user can view all active reservations and tables:</h4>**
 
-![Screenshot (91)](https://github.com/alecluis/PeriodicTables/assets/143030955/d9cb6eda-b54a-4ddb-9ab4-a68e5aaaf340)
+![Screenshot (91)](https://github.com/alecluis/PeriodicTables/assets/143030955/7b888ad6-56f2-4fb6-ba5f-40e91992cc6c)
+
+
+
+![Screenshot (94)](https://github.com/alecluis/PeriodicTables/assets/143030955/3d361036-4ffd-48a3-ac8d-b844d1477622)
