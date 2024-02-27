@@ -397,6 +397,4 @@ so that reservations are accurate and current.
    - Clicking the "Submit" button will save the reservation, then displays the previous page.
    - Clicking "Cancel" makes no changes, then display the previous page.
 
-> **Hint** The same validation used for create applies to editing a reservation. The form and the API for updating a reservation must not allow the user to violate any of the rules specified when creating a reservation.
->
-> ![Screenshot (91)](https://github.com/alecluis/PeriodicTables/assets/143030955/f192b9f2-9573-4233-b802-a1c73ff597ad)
+![Screenshot (91)](https://github.com/alecluis/PeriodicTables/assets/143030955/d9cb6eda-b54a-4ddb-9ab4-a68e5aaaf340)
